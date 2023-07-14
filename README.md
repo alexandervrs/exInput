@@ -1,3 +1,3 @@
-# exInput
+# exInput 0.4.1
  
-An input system for GameMaker 1.x
+An input system for GameMaker Studio 1.x
